@@ -1,0 +1,6 @@
+{
+  "name": "Online Leave Form",
+  "description": "An online leave application and approval form with Google login, status tracking, and manager approvals, persisted with Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
